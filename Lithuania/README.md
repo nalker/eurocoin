@@ -1,4 +1,4 @@
-Lithuania
+# Lithuania
 
 ## Coin Set
 
@@ -9,10 +9,8 @@ Lithuania
 </div>
 
 #### 2018 BU Set
-Date of Issue: **2018-01-31**
-<br/>
-Mintage: **5,000**
-<br/>
+Date of Issue: **2018-01-31**<br/>
+Mintage: **5,000**<br/>
 Mint: **Lithuanian Mint**
 
 <br/>
@@ -21,10 +19,8 @@ Mint: **Lithuanian Mint**
 </div>
 
 #### 2015 BU Set
-Date of Issue: **2015**
-<br/>
-Mintage: **35,000**
-<br/>
+Date of Issue: **2015**<br/>
+Mintage: **35,000**<br/>
 Mint: **Lithuanian Mint**
 
 ### Proof
@@ -34,7 +30,7 @@ Mint: **Lithuanian Mint**
 </div>
 
 #### 2015 Proof Set
-Date of Issue: **2015**
-Mintage: **7,000**
+Date of Issue: **2015**<br/>
+Mintage: **7,000**<br/>
 Mint: **Lithuanian Mint**
 
