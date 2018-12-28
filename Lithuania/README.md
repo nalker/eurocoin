@@ -8,12 +8,11 @@ Lithuania
 <img src="./images/coin_set/2018_lt_bu.png" />
 </div>
 
-**2018 BU Set**
-
+#### 2018 BU Set
 Date of Issue: **2018-01-31**
-
+<br/>
 Mintage: **5,000**
-
+<br/>
 Mint: **Lithuanian Mint**
 
 <br/>
