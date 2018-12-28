@@ -20,10 +20,10 @@ Mint: **Lithuanian Mint**
 <img src="./images/coin_set/2015_lt_bu.png" />
 </div>
 
-**2015 BU Set**
-Date of Issue: **2018-01-31**
+#### 2015 BU Set
+Date of Issue: **2015**
 <br/>
-Mintage: **5,000**
+Mintage: **35,000**
 <br/>
 Mint: **Lithuanian Mint**
 
@@ -33,8 +33,8 @@ Mint: **Lithuanian Mint**
 <img src="./images/coin_set/2015_lt_proof.png" />
 </div>
 
-**2015 Proof Set**
-Date of Issue: **2018-01-31**
-Mintage: **5,000**
+#### 2015 Proof Set
+Date of Issue: **2015**
+Mintage: **7,000**
 Mint: **Lithuanian Mint**
 
