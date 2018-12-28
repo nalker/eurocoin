@@ -37,4 +37,13 @@ Mint: **Lithuanian Mint**
 ## Coin Card
 
 ## 2 Euro CC
+<br/>
+<div align="center">
+<img src="./images/2_euro_cc/2018_the_song_ and_dance_celebration.png" />
+</div>
+
+#### 2015 Proof Set
+Date of Issue: **2018-06-26**<br/>
+Mintage: **500,000**<br/>
+Mint: **Lithuanian Mint**
 
