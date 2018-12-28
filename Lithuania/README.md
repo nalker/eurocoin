@@ -42,8 +42,18 @@ Mint: **Lithuanian Mint**
 <img src="./images/2_euro_cc/2018_the_song_ and_dance_celebration.png" />
 </div>
 
-#### 2015 Proof Set
+#### the Song and Dance Celebration (inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity) (2018)
 Date of Issue: **2018-06-26**<br/>
 Mintage: **500,000**<br/>
+Mint: **Lithuanian Mint**
+
+<br/>
+<div align="center">
+<img src="./images/2_euro_cc/2018_the_100th_anniversary_of_the_baltic_states.png" />
+</div>
+
+#### the 100th anniversary of the Baltic States (2018)
+Date of Issue: **2018-01-31**<br/>
+Mintage: **1,000,000**<br/>
 Mint: **Lithuanian Mint**
 
