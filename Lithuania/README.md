@@ -23,7 +23,9 @@ Mint: **Lithuanian Mint**
 
 **2015 BU Set**
 Date of Issue: **2018-01-31**
+<br/>
 Mintage: **5,000**
+<br/>
 Mint: **Lithuanian Mint**
 
 ### Proof
