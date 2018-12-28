@@ -9,8 +9,11 @@ Lithuania
 </div>
 
 **2018 BU Set**
+
 Date of Issue: **2018-01-31**
+
 Mintage: **5,000**
+
 Mint: **Lithuanian Mint**
 
 <br/>
