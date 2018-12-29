@@ -3,14 +3,14 @@
 ## Circulation
 <br/>
 <div align="center">
-<img src="./images/circulation/2015_2euro.jpg" width="50%" height="50%" />
-<img src="./images/circulation/2015_1euro.jpg" width="50%" height="50%" />
-<img src="./images/circulation/2015_50cent.jpg" width="50%" height="50%" />
-<img src="./images/circulation/2015_20cent.jpg" width="50%" height="50%" />
-<img src="./images/circulation/2015_10cent.jpg" width="50%" height="50%" />
-<img src="./images/circulation/2015_5cent.jpg" width="50%" height="50%" />
-<img src="./images/circulation/2015_2cent.jpg" width="50%" height="50%" />
-<img src="./images/circulation/2015_1cent.jpg" width="50%" height="50%" />
+<img src="./images/circulation/2015_2euro.jpg" width="30%" />
+<img src="./images/circulation/2015_1euro.jpg" width="30%" height="30%" />
+<img src="./images/circulation/2015_50cent.jpg" width="30%" height="30%" />
+<img src="./images/circulation/2015_20cent.jpg" width="30%" height="30%" />
+<img src="./images/circulation/2015_10cent.jpg" width="30%" height="30%" />
+<img src="./images/circulation/2015_5cent.jpg" width="30%" height="30%" />
+<img src="./images/circulation/2015_2cent.jpg" width="30%" height="30%" />
+<img src="./images/circulation/2015_1cent.jpg" width="30%" height="30%" />
 </div>
 
 ## Coin Set
