@@ -3,14 +3,14 @@
 ## Circulation
 <br/>
 <div align="center">
-<img src="./images/circulation/2015_2euro.jpg" />
-<img src="./images/circulation/2015_1euro.jpg" />
-<img src="./images/circulation/2015_50cent.jpg" />
-<img src="./images/circulation/2015_20cent.jpg" />
-<img src="./images/circulation/2015_10cent.jpg" />
-<img src="./images/circulation/2015_5cent.jpg" />
-<img src="./images/circulation/2015_2cent.jpg" />
-<img src="./images/circulation/2015_1cent.jpg" />
+<img src="./images/circulation/2015_2euro.jpg" width="50%" height="50%" />
+<img src="./images/circulation/2015_1euro.jpg" width="50%" height="50%" />
+<img src="./images/circulation/2015_50cent.jpg" width="50%" height="50%" />
+<img src="./images/circulation/2015_20cent.jpg" width="50%" height="50%" />
+<img src="./images/circulation/2015_10cent.jpg" width="50%" height="50%" />
+<img src="./images/circulation/2015_5cent.jpg" width="50%" height="50%" />
+<img src="./images/circulation/2015_2cent.jpg" width="50%" height="50%" />
+<img src="./images/circulation/2015_1cent.jpg" width="50%" height="50%" />
 </div>
 
 ## Coin Set
