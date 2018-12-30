@@ -13,4 +13,28 @@
 <img src="./images/circulation/2014_2euro.jpg" width="250" height="248" />
 </div>
 
+## 2 Euro CC
+<br/>
+<div align="center">
+<img src="./images/2_euro_cc/2018_zemgale.jpg" />
+</div>
+
+#### Zemgale (2018)
+Date of Issue: **2018**<br/>
+Mintage: **500,000**<br/>
+Mint: **Staatliche Münzen Baden-Württemberg (Germany)**
+
+<br/>
+<div align="center">
+<img src="./images/2_euro_cc/2018_centenary_of_the_baltic_states.jpg" />
+</div>
+
+#### Centenary of the Baltic States (2018)
+Date of Issue: **2018**<br/>
+Mintage: **512,000**<br/>
+Mint: **UAB Lietuvos monetų kalykla (Lithuania)**
+
+
+
+
 
