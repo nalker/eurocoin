@@ -116,4 +116,3 @@ Mint: **Lithuanian Mint**
 Date of Issue: **2015**<br/>
 Mintage: **750,000**<br/>
 Mint: **Lithuanian Mint**
-
