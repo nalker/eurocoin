@@ -5,14 +5,14 @@
 ## <a name="circulation"></a>Circulation
 <br/>
 <div align="center">
-<img src="./images/circulation/2014_1cent.jpg" width="163" height="163" />
-<img src="./images/circulation/2014_2cent.jpg" width="188" height="188" />
-<img src="./images/circulation/2014_5cent.jpg" width="213" height="213" />
-<img src="./images/circulation/2014_10cent.jpg" width="198" height="198" />
-<img src="./images/circulation/2014_20cent.jpg" width="223" height="223" />
-<img src="./images/circulation/2014_50cent.jpg" width="243" height="243" />
-<img src="./images/circulation/2014_1euro.jpg" width="233" height="233" />
-<img src="./images/circulation/2014_2euro.jpg" width="258" height="258" />
+<img src="./images/circulation/2014_1cent.jpg" width="195" height="195" />
+<img src="./images/circulation/2014_2cent.jpg" width="225" height="225" />
+<img src="./images/circulation/2014_5cent.jpg" width="255" height="255" />
+<img src="./images/circulation/2014_10cent.jpg" width="237" height="237" />
+<img src="./images/circulation/2014_20cent.jpg" width="267" height="267" />
+<img src="./images/circulation/2014_50cent.jpg" width="291" height="291" />
+<img src="./images/circulation/2014_1euro.jpg" width="279" height="279" />
+<img src="./images/circulation/2014_2euro.jpg" width="309" height="309" />
 </div>
 
 ## <a name="2eurocc"></a>2 Euro CC
