@@ -1,6 +1,7 @@
 # Latvia
+1. [Circulation](#circulation)
 
-## Circulation
+## <a name="circulation"></a>Circulation
 <br/>
 <div align="center">
 <img src="./images/circulation/2014_1cent.jpg" width="110" height="109" />
