@@ -1,6 +1,11 @@
 # Lithuania
+[Circulation](#circulation)<br/>
+[2 Euro CC](#2eurocc)<br/>
+[Coin Set](#coinset)<br/>
+ - [Proof](#proofset)<br/>
+ - [Brilliant Uncirculated](#buset)<br/>
 
-## Circulation
+## <a name="circulation"></a>Circulation
 <br/>
 <div align="center">
 <img src="./images/circulation/2015_1cent.jpg" width="110" height="109" />
@@ -20,43 +25,7 @@
 <img src="./images/circulation/gerove.jpg" width="524" height="39" />
 </div>
 
-## Coin Set
-
-### Brilliant Uncirculated
-<br/>
-<div align="center">
-<img src="./images/coin_set/2018_lt_bu.png" />
-</div>
-
-#### 2018 BU Set
-Date of Issue: **2018-01-31**<br/>
-Mintage: **5,000**<br/>
-Mint: **Lithuanian Mint**
-
-<br/>
-<div align="center">
-<img src="./images/coin_set/2015_lt_bu.png" />
-</div>
-
-#### 2015 BU Set
-Date of Issue: **2015**<br/>
-Mintage: **35,000**<br/>
-Mint: **Lithuanian Mint**
-
-### Proof
-<br/>
-<div align="center">
-<img src="./images/coin_set/2015_lt_proof.png" />
-</div>
-
-#### 2015 Proof Set
-Date of Issue: **2015**<br/>
-Mintage: **7,000**<br/>
-Mint: **Lithuanian Mint**
-
-## Coin Card
-
-## 2 Euro CC
+## <a name="2eurocc"></a>2 Euro CC
 <br/>
 <div align="center">
 <img src="./images/2_euro_cc/2018_the_song_ and_dance_celebration.png" />
@@ -115,4 +84,38 @@ Mint: **Lithuanian Mint**
 #### celebrate 30 years of the EU flag (2015)
 Date of Issue: **2015**<br/>
 Mintage: **750,000**<br/>
+Mint: **Lithuanian Mint**
+
+## <a name="coinset">Coin Set
+
+### <a name="proofset"></a>Proof
+<br/>
+<div align="center">
+<img src="./images/coin_set/2015_lt_proof.png" />
+</div>
+
+#### 2015 Proof Set
+Date of Issue: **2015**<br/>
+Mintage: **7,000**<br/>
+Mint: **Lithuanian Mint**
+
+### <a name="buset"></a>Brilliant Uncirculated
+<br/>
+<div align="center">
+<img src="./images/coin_set/2018_lt_bu.png" />
+</div>
+
+#### 2018 BU Set
+Date of Issue: **2018-01-31**<br/>
+Mintage: **5,000**<br/>
+Mint: **Lithuanian Mint**
+
+<br/>
+<div align="center">
+<img src="./images/coin_set/2015_lt_bu.png" />
+</div>
+
+#### 2015 BU Set
+Date of Issue: **2015**<br/>
+Mintage: **35,000**<br/>
 Mint: **Lithuanian Mint**
