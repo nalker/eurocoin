@@ -1,9 +1,9 @@
 # Lithuania
-[Circulation](#circulation)<br/>
+[Circulation](#circulation)
 [2 Euro CC](#2eurocc)<br/>
 [Coin Set](#coinset)
- - [Proof](#proofset)<br/>
- - [Brilliant Uncirculated](#buset)<br/>
+ - [Proof](#proofset)
+ - [Brilliant Uncirculated](#buset)
 
 ## <a name="circulation"></a>Circulation
 <br/>
