@@ -1,18 +1,18 @@
 # Latvia
-[Circulation](#circulation)
-[2 Euro CC](#2eurocc)
+[Circulation](#circulation)<br/>
+[2 Euro CC](#2eurocc)<br/>
 
 ## <a name="circulation"></a>Circulation
 <br/>
 <div align="center">
-<img src="./images/circulation/2014_1cent.jpg" width="110" height="109" />
-<img src="./images/circulation/2014_2cent.jpg" width="130" height="129" />
-<img src="./images/circulation/2014_5cent.jpg" width="150" height="149" />
-<img src="./images/circulation/2014_10cent.jpg" width="170" height="169" />
-<img src="./images/circulation/2014_20cent.jpg" width="190" height="190" />
-<img src="./images/circulation/2014_50cent.jpg" width="210" height="208" />
-<img src="./images/circulation/2014_1euro.jpg" width="230" height="229" />
-<img src="./images/circulation/2014_2euro.jpg" width="250" height="248" />
+<img src="./images/circulation/2014_1cent.jpg" width="163" height="163" />
+<img src="./images/circulation/2014_2cent.jpg" width="188" height="188" />
+<img src="./images/circulation/2014_5cent.jpg" width="213" height="213" />
+<img src="./images/circulation/2014_10cent.jpg" width="198" height="198" />
+<img src="./images/circulation/2014_20cent.jpg" width="223" height="223" />
+<img src="./images/circulation/2014_50cent.jpg" width="243" height="243" />
+<img src="./images/circulation/2014_1euro.jpg" width="233" height="233" />
+<img src="./images/circulation/2014_2euro.jpg" width="258" height="258" />
 </div>
 
 ## <a name="2eurocc"></a>2 Euro CC
