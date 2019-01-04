@@ -2,8 +2,8 @@
 [Circulation](#circulation)  
 [2 Euro CC](#2eurocc)  
 [Coin Set](#coinset)  
-*  [Proof](#proofset)
-*  [Brilliant Uncirculated](#buset)
+&ensp;&ensp;[Proof](#proofset)
+&ensp;&ensp;[Brilliant Uncirculated](#buset)
 
 ## <a name="circulation"></a>Circulation
 
