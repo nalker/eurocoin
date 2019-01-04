@@ -1,21 +1,21 @@
 # Lithuania
 [Circulation](#circulation)  
 [2 Euro CC](#2eurocc)  
-[Coin Set](#coinset)
+[Coin Set](#coinset)  
   - [Proof](#proofset)
   - [Brilliant Uncirculated](#buset)
 
 ## <a name="circulation"></a>Circulation
 
 <div align="center">
-<img src="./images/circulation/2015_1cent.jpg" width="110" height="109" />
-<img src="./images/circulation/2015_2cent.jpg" width="130" height="129" />
-<img src="./images/circulation/2015_5cent.jpg" width="150" height="149" />
-<img src="./images/circulation/2015_10cent.jpg" width="170" height="169" />
-<img src="./images/circulation/2015_20cent.jpg" width="190" height="190" />
-<img src="./images/circulation/2015_50cent.jpg" width="210" height="208" />
-<img src="./images/circulation/2015_1euro.jpg" width="230" height="229" />
-<img src="./images/circulation/2015_2euro.jpg" width="250" height="248" />
+<img src="./images/circulation/2015_1cent.jpg" width="195" height="195" />
+<img src="./images/circulation/2015_2cent.jpg" width="225" height="225" />
+<img src="./images/circulation/2015_5cent.jpg" width="255" height="255" />
+<img src="./images/circulation/2015_10cent.jpg" width="237" height="237" />
+<img src="./images/circulation/2015_20cent.jpg" width="267" height="267" />
+<img src="./images/circulation/2015_50cent.jpg" width="291" height="291" />
+<img src="./images/circulation/2015_1euro.jpg" width="279" height="279" />
+<img src="./images/circulation/2015_2euro.jpg" width="309" height="309" />
 </div>
 
 
