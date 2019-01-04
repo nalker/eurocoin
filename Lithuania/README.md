@@ -2,7 +2,7 @@
 [Circulation](#circulation)  
 [2 Euro CC](#2eurocc)  
 [Coin Set](#coinset)  
-&ensp;&ensp;[Proof](#proofset)
+&ensp;&ensp;[Proof](#proofset)  
 &ensp;&ensp;[Brilliant Uncirculated](#buset)
 
 ## <a name="circulation"></a>Circulation
@@ -18,7 +18,6 @@
 <img src="./images/circulation/2015_2euro.jpg" width="309" height="309" />
 </div>
 
-
 <div align="center">
 <img src="./images/circulation/laisve.jpg" width="524" height="39" />
 <img src="./images/circulation/vienybe.jpg" width="524" height="39" />
@@ -32,30 +31,27 @@
 </div>
 
 #### the Song and Dance Celebration (inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity) (2018)
-Date of Issue: **2018-06-26**
-Mintage: **500,000**
+Date of Issue: **2018-06-26**  
+Mintage: **500,000**  
 Mint: **Lithuanian Mint**
-
 
 <div align="center">
 <img src="./images/2_euro_cc/2018_the_100th_anniversary_of_the_baltic_states.png" />
 </div>
 
 #### the 100th anniversary of the Baltic States (2018)
-Date of Issue: **2018-01-31**
-Mintage: **1,000,000**
+Date of Issue: **2018-01-31**  
+Mintage: **1,000,000**  
 Mint: **Lithuanian Mint**
-
 
 <div align="center">
 <img src="./images/2_euro_cc/2017_vilnius.png" />
 </div>
 
 #### Vilnius (2017)
-Date of Issue: **2017-08-31**
-Mintage: **1,000,000**
+Date of Issue: **2017-08-31**  
+Mintage: **1,000,000**  
 Mint: **Lithuanian Mint**
-
 
 <div align="center">
 <img src="./images/2_euro_cc/2016_baltic_culture.png" />
