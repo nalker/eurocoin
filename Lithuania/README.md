@@ -1,9 +1,9 @@
 # Lithuania
-[Circulation](#circulation)  
-[2 Euro CC](#2eurocc)  
-[Coin Set](#coinset)  
-&ensp;&ensp;[Proof](#proofset)  
-&ensp;&ensp;[Brilliant Uncirculated](#buset)
+[Circulation](#circulation)<br/>
+[2 Euro CC](#2eurocc)<br/>
+[Coin Set](#coinset)<br/>
+  [Proof](#proofset)<br/>
+  [Brilliant Uncirculated](#buset)
 
 ## <a name="circulation"></a>Circulation
 
@@ -31,8 +31,8 @@
 </div>
 
 #### the Song and Dance Celebration (inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity) (2018)
-Date of Issue: **2018-06-26**  
-Mintage: **500,000**  
+Date of Issue: **2018-06-26**<br/>
+Mintage: **500,000**<br/>
 Mint: **Lithuanian Mint**
 
 <div align="center">
@@ -40,8 +40,8 @@ Mint: **Lithuanian Mint**
 </div>
 
 #### the 100th anniversary of the Baltic States (2018)
-Date of Issue: **2018-01-31**  
-Mintage: **1,000,000**  
+Date of Issue: **2018-01-31**<br/>
+Mintage: **1,000,000**<br/>
 Mint: **Lithuanian Mint**
 
 <div align="center">
