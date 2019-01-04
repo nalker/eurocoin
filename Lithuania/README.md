@@ -1,7 +1,7 @@
 # Lithuania
 [Circulation](#circulation)<br/>
 [2 Euro CC](#2eurocc)<br/>
-[Coin Set](#coinset)<br/>
+[Coin Set](#coinset)
  - [Proof](#proofset)<br/>
  - [Brilliant Uncirculated](#buset)<br/>
 
