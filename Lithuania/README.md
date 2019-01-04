@@ -7,6 +7,7 @@
 
 ## <a name="circulation"></a>Circulation
 
+<br/>
 <div align="center">
 <img src="./images/circulation/2015_1cent.jpg" width="195" height="195" />
 <img src="./images/circulation/2015_2cent.jpg" width="225" height="225" />
@@ -18,6 +19,7 @@
 <img src="./images/circulation/2015_2euro.jpg" width="309" height="309" />
 </div>
 
+<br/>
 <div align="center">
 <img src="./images/circulation/laisve.jpg" width="524" height="39" />
 <img src="./images/circulation/vienybe.jpg" width="524" height="39" />
@@ -25,6 +27,7 @@
 </div>
 
 ## <a name="2eurocc"></a>2 Euro CC
+
 <br/>
 <div align="center">
 <img src="./images/2_euro_cc/2018_the_song_ and_dance_celebration.png" />

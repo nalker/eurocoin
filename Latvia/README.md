@@ -3,6 +3,7 @@
 [2 Euro CC](#2eurocc)<br/>
 
 ## <a name="circulation"></a>Circulation
+
 <br/>
 <div align="center">
 <img src="./images/circulation/2014_1cent.jpg" width="195" height="195" />
@@ -16,6 +17,7 @@
 </div>
 
 ## <a name="2eurocc"></a>2 Euro CC
+
 <br/>
 <div align="center">
 <img src="./images/2_euro_cc/2018_zemgale.jpg" />
