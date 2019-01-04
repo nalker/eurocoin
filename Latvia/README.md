@@ -1,5 +1,6 @@
 # Latvia
-1. [Circulation](#circulation)
+[Circulation](#circulation)
+[2 Euro CC](#2eurocc)
 
 ## <a name="circulation"></a>Circulation
 <br/>
@@ -14,7 +15,7 @@
 <img src="./images/circulation/2014_2euro.jpg" width="250" height="248" />
 </div>
 
-## 2 Euro CC
+## <a name="2eurocc"></a>2 Euro CC
 <br/>
 <div align="center">
 <img src="./images/2_euro_cc/2018_zemgale.jpg" />
